@@ -53,7 +53,7 @@ const About = () => {
 
           {/* Resume  */}
           <a
-            href="https://drive.google.com/file/d/1eq6wDK8jSz_hqSLD4MzOETaaMQil8U0E/view?usp=sharing"
+            href="https://drive.google.com/file/d/167NkX6dwBbW8ZErZZXk2kz54_IOE0hi5/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
