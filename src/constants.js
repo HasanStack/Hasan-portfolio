@@ -119,7 +119,7 @@ export const SkillsInfo = [
     id: 1,
     img:DBTHS,
     school: "Dumkal Bhabataran High School,Domkal",
-    date: "April 2020 - April 2022",
+    date: "April 2021 - April 2022",
     grade: "82%",
     desc: "I completed my class 12 education from Dumkal Bhabataran High School,Domkal, under the WBCHSE board, where I studied Physics, Chemistry, and Mathematics (PCM).",
     degree: "West Bengal Council of Higher Secondary Education(WBCHSE)" 
